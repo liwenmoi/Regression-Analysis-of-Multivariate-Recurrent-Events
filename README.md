@@ -6,7 +6,7 @@ Executable codes of the manuscript:
 1. main.R: R file contains codes to implement the proposed method. It shows how to analyze the example datasets stored in "dat.RData".
 
 2. HelperFunctions.R: helper functions that are used in main.R.
-
+  
 3. dat.RData: This RData includes 3 datasets. The sample size is 200.
 
 	1) DATA.1, the dataset for the 1st recurrent event. Each subject can have multiple rows, depending on the number of recurrent events of this subject. The following columns are included:
