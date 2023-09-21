@@ -9,7 +9,7 @@ HelperFunctions.R: helper functions that are used in main.R.
 
 dat.RData: This RData includes 3 datasets. The sample size is 200.
 
-	(1) DATA.1, the dataset for the 1st recurrent event. Each subject can have multiple rows, depending on the number of recurrent events of this subject. The following columns are included:
+	1. DATA.1, the dataset for the 1st recurrent event. Each subject can have multiple rows, depending on the number of recurrent events of this subject. The following columns are included:
 
                                  (1) id1: ID number
 
@@ -21,7 +21,7 @@ dat.RData: This RData includes 3 datasets. The sample size is 200.
 
                                  (5) num1: total number of recurrent events of the subject
 
-	(2) DATA.2, the dataset for the 2nd recurrent event. Each subject can have multiple rows, depending on the number of recurrent events of this subject. The following columns are included:
+	2. DATA.2, the dataset for the 2nd recurrent event. Each subject can have multiple rows, depending on the number of recurrent events of this subject. The following columns are included:
 
                                  (1) id2: ID number
 
@@ -33,7 +33,7 @@ dat.RData: This RData includes 3 datasets. The sample size is 200.
 
                                  (5) num2: total number of recurrent events of the subject
 
-	(3) DATA1, the dataset that records the covariates. Each row represents a subject. The following columns are included:
+	3. DATA1, the dataset that records the covariates. Each row represents a subject. The following columns are included:
 
                                  (1) ID: ID number
 
