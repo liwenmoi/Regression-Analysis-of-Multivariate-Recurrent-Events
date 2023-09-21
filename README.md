@@ -3,7 +3,7 @@ Executable codes of the manuscript:
 
 "Regression Analysis of Multivariate Recurrent Event Data Allowing Time-Varying Dependence with Application to Stoke Registry Data"
 
-1. main.R: R file contains codes to implement the proposed method. It shows how to analyze the example datasets stored in "dat.RData".
+1. main.R: the R file containing codes to implement the proposed method. It shows how to analyze the example datasets stored in "dat.RData".
 
 2. HelperFunctions.R: helper functions that are used in main.R.
   
